@@ -11,3 +11,5 @@ git log // wyswietla commity
 git revert <hash> // cofniecie commita
 git show <hash> //wyświetla informacje o commitcie
 git commit --amend // zmiana informacji (Message) w commicie
+git push //publikuje lokalne zmiany w repozytorium zdalnym
+git pull //pobiera zmiany ze zdalnego repozytorium
