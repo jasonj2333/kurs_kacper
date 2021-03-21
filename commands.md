@@ -13,3 +13,4 @@ git show <hash> //wyświetla informacje o commitcie
 git commit --amend // zmiana informacji (Message) w commicie
 git push //publikuje lokalne zmiany w repozytorium zdalnym
 git pull //pobiera zmiany ze zdalnego repozytorium
+git checkout -b NazwaBrancha //utworzenie nowej gałęzi
